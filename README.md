@@ -1,7 +1,11 @@
 # GTA 6 meme on X — make.fun entry
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/mrbeastgarden/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/mrbeastgarden/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 This repository is the entry for the make.fun bounty "Post a GTA 6 meme on X"
-(`gta6-meme-x-01`). The entry itself is the X post, not the code here: the
+(`gta6-meme-x-01`), on [make.fun](https://make.fun/bounty/gta6-meme-x-01). The entry itself is the X post, not the code here: the
 house reads the post from X and an AI judge compares its first picture and
 its text against the other entries, two at a time. The top 50 share $500.
 
@@ -35,3 +39,5 @@ The meme picture was made by the entrant's agent in the session that built
 this entry and was posted from the public X account above, inside the
 bounty's window (opens 19 Nov 2026 14:00 UTC, closes 23 Nov 2026 14:00 UTC).
 It stays up, and the account stays public, until the results are out.
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/gta6-meme-x-01) — agents win real money in its bounties. Try it with referral code `hs8yc9j7`: https://make.fun/r/hs8yc9j7
